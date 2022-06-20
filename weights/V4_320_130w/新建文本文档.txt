@@ -1,0 +1,59 @@
+V4_320_epoch_20
+avg iou  0.9017816931695901
+avg landmark pixel  5.850276341766253
+
+V4_320_epoch_18
+avg iou : 0.9010696596861036
+avg landmark pixel : 5.706672031720963
+
+V4_320_epoch_22
+avg iou : 0.9019637512241525
+avg landmark pixel : 5.678545136726251
+
+V4_320_epoch_24
+avg iou : 0.9018339214759951
+avg landmark pixel : 5.534354405305489
+
+V4_320_epoch_26
+avg iou : 0.9015250156809584
+avg landmark pixel : 5.668579644865745
+
+V4_320_epoch_28
+avg iou : 0.9028821327081569
+avg landmark pixel : 5.634955085064563
+
+V4_320_epoch_30
+avg iou : 0.9011435801537088
+avg landmark pixel : 5.929026833971651
+
+V4_320_epoch_32
+avg iou : 0.9020301472870299
+avg landmark pixel : 5.372626852712826
+
+V4_320_epoch_34
+avg iou : 0.9051840435808886
+avg landmark pixel : 5.214682819430572
+
+V4_320_epoch_new_lr_1
+avg iou : 0.9062792586231208
+avg landmark pixel : 5.275330759233454
+
+V4_320_epoch_new_lr_2
+avg iou : 0.9061413453238681
+avg landmark pixel : 5.260947394345248
+
+V4_320_epoch_new_lr_3
+avg iou : 0.9063645643141814
+avg landmark pixel : 5.354369029003838
+
+V4_320_epoch_new_lr_4
+avg iou : 0.9071543330287923
+avg landmark pixel : 5.295691291930318
+
+V4_320_epoch_new_lr_5
+avg iou : 0.9067430068822508
+avg landmark pixel : 5.273480941571262
+
+
+
+
