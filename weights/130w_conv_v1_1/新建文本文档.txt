@@ -1,0 +1,72 @@
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_1.pth
+avg angle : 3.5810652411898376
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_10.pth
+avg angle : 3.3339792580172487
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_11.pth
+avg angle : 3.4781783803998043
+	Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_12.pth
+	avg angle : 3.332057763276826
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_13.pth
+avg angle : 3.5686075814540454
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_14.pth
+avg angle : 3.5692578602634035
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_15.pth
+avg angle : 3.4983385127999314
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_16.pth
+avg angle : 3.46111479095274
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_17.pth
+avg angle : 3.3833500850698126
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_18.pth
+avg angle : 3.5199791962479514
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_19.pth
+avg angle : 3.564423543808426
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_2.pth
+avg angle : 3.566097294390662
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_3.pth
+avg angle : 3.5730418908701984
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_4.pth
+avg angle : 3.522635833390483
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_5.pth
+avg angle : 3.424291224945826
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_6.pth
+avg angle : 3.5487165714871756
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_7.pth
+avg angle : 3.430591261322384
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_8.pth
+avg angle : 3.537027394154341
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_epoch_9.pth
+avg angle : 3.528820544458246
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_1.pth
+avg angle : 3.448557707519951
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_10.pth
+avg angle : 3.457325501963381
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_11.pth
+avg angle : 3.4489894765537157
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_12.pth
+avg angle : 3.450757213109612
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_13.pth
+avg angle : 3.438231305692811
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_2.pth
+avg angle : 3.445985073364776
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_3.pth
+avg angle : 3.457218894116016
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_4.pth
+avg angle : 3.460087872465851
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_5.pth
+avg angle : 3.4812497829174887
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_6.pth
+avg angle : 3.4864185153747083
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_7.pth
+avg angle : 3.414156031479607
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_8.pth
+avg angle : 3.480706702267184
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr2_epoch_9.pth
+avg angle : 3.479695508017606
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr_epoch_1.pth
+avg angle : 3.4544808728133876
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr_epoch_2.pth
+avg angle : 3.4821774973382906
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr_epoch_3.pth
+avg angle : 3.4216408245553374
+Loading pretrained model from ./weights/130w_conv_v1_1\Angle_V4x320_conv_v1_1_130w_newlr_epoch_4.pth
+avg angle : 3.480262475194758
